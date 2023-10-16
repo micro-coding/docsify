@@ -1,13 +1,9 @@
 <!-- _navbar.md -->
+* Go
+  * [Go 基础](go/go-basic/)
+  * [Go 模块](go/go-modules/)
 
 * Java
-  * [快速开始](zh-cn/quickstart.md)
+  * [Hello](java/hello/helloworld.md)
 
-* Go
-  * [配置项](zh-cn/configuration.md)
-
-* 工具
-  * [开发工具](工具/开发工具.md)
-  * [HTTPie工具](工具/HTTPie工具.md)
-  * [Markdown基础语法](工具/Markdown语法(Basic).md)
-  * [Markdown高级语法](工具/Markdown语法(Extended).md)
+* [Other](other/)
