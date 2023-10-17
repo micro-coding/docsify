@@ -22,7 +22,7 @@ replace golang.org/x/net => /Users/eddycjy/go/awesomeProject
 
 此方案下，用户必须及时上传依赖的模块，再重新拉取。该方案需要开发者频繁提交代码，严重拖慢开发效率。
 
-## Workspace 模式
+## Workspace mode
 
 Go 1.18 发布了 Multi-Module Workspaces 模式。开发者可以在当前项目的 go.work 文件中设置一系列依赖 module 的本地路径，然后路径下的所有 module 合并为 workspace，即 N 个 Go 模块组成 1 个 Go Work，且 workspace 具有最高优先级。
 
