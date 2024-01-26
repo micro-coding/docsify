@@ -129,4 +129,4 @@ func main() {
 
 参考资料：
 
-* [MethodSets](https://github.com/golang/go/wiki/MethodSets)
+* [MethodSets](https://go.dev/wiki/MethodSets)
