@@ -83,6 +83,7 @@ Interface is nil: true
 ```
 
 这种情况下，接口底层数据结构为 nil，同时接口本身也为 nil。接口可以表示为：
+
 ![示例三](https://trstringer.com/images/go-interface4-nil-interface.png)
 
 参考资料：
